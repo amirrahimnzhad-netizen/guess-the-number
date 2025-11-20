@@ -23,3 +23,8 @@ A fun and modern number-guessing game built with Python and Tkinter!
 📜 Guess history
 
 ✔️ Standalone EXE included (no Python needed!)
+## 📥 Download
+
+Click below to download the game:
+
+👉 [Download Guess The Number (.exe)](guess_the_number.exe)
